@@ -15,18 +15,13 @@ This study performed large-scale whole-exome sequencing meta-analysis across IBD
 
 ## Dependencies
 
-| Tool / Package | Version | Usage |
+| Tool | Version | Usage |
 |---|---|---|
 | Hail | 0.2.133 | QC, variant annotation |
 | VEP | 112 | Variant consequence annotation |
-| LOFTEE | — | High-confidence PTV flagging |
-| AlphaMissense | — | Missense pathogenicity scoring |
 | REGENIE | 3.2.2 / 4.1 | Single-variant and burden association testing |
 | METAL | — | Inverse-variance weighted meta-analysis |
-| PLINK | 1.9 | Pairwise LD estimation |
-| CELLEX | 1.2.1 | Cell-type expression specificity |
-| Python | ≥ 3.8 | Analysis scripting |
-| R | ≥ 4.0 | Statistical modeling, visualization |
+| PLINK | 1.9 / 2.0 | QC, analysis |
 
 ---
 
