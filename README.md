@@ -26,7 +26,7 @@ This study performed large-scale whole-exome sequencing meta-analysis across IBD
 ---
 
 ## Data Availability
-Summary statistics from the meta-analysis are deposited at [].
+Summary statistics from the meta-analysis are deposited at [https://personal.broadinstitute.org/hhuang/public/IBD-SEQ/].
 
 ---
 
